@@ -12,6 +12,7 @@ import CompetitionsPage from './components/CompetitonsPage';
 import ClubHistory from './components/ClubHistory';
 import StadiumSection from './components/StadiumSection';
 import TrophyCarousel from './components/TrophyCabinet';
+import NewsSection from './components/NewsSection';
 
 
 // This represents your main landing page
@@ -25,6 +26,7 @@ const HomePage = () => (
     <CompetitionsPage/>
     <ClubHistory/>
     <StadiumSection/>
+    <NewsSection/>
   </>
 );
 
